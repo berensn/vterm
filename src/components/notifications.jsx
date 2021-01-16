@@ -1,5 +1,5 @@
-import { h, Component }   from 'preact'
-import { observer }       from 'mobx-preact'
+import { h, Component }   from 'vue'
+import { observer }       from 'mobx-vue'
 import Store              from '../store'
 
 @observer

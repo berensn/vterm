@@ -1,4 +1,4 @@
-import { h, Component }  from 'preact'
+import { h, Component }  from 'vue'
 import Store             from '../store'
 
 // Import actions and utils
