@@ -1,4 +1,4 @@
-import { h, Component } from 'preact'
+import { h, Component } from 'vue'
 import { spawn }        from 'node-pty'
 import { bind }         from 'decko'
 import Store            from '../store'
